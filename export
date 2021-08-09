@@ -1,0 +1,5 @@
+export BAR=true
+echo "ran heroku-buildpack-bar/export"
+pwd
+env
+echo "finished heroku-buildpack-bar/export"
